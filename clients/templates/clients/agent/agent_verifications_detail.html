@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table width="100%">
+    <tr>
+        <th>Данные</th>
+        <th>Документы</th>
+    </tr>
+    <tr>
+        <td>
+            {{ verification.agent.inn }}
+        </td>
+        <td>
+
+        </td>
+
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Одобрить</th>
+        <th>Отклонить</th>
+    </tr>
+    <tr>
+        <td>
+            <form method="post">
+                <button type="submit" name="action" value="success">Одобрить</button>
+            </form>
+        </td>
+        <td>
+            <form method="post">
+                <label for="comment">Комментарий</label>
+                <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+                <button type="submit" name="action" value="fail">Отклонить</button>
+            </form>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

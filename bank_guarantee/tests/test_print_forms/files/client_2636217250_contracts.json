@@ -1,0 +1,269 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "number": "1262701205519000153",
+            "data": {
+                "id": "52625616",
+                "href": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=1262701205519000153",
+                "isGOZ": "true",
+                "number": "148",
+                "placer": {
+                    "responsibleOrg": {
+                        "regNum": "03211000201",
+                        "fullName": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"САНАТОРИЙ \"ЖЕЛЕЗНОВОДСК\" МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+                        "consRegistryNum": "00116832"
+                    },
+                    "responsibleRole": "CU"
+                },
+                "regNum": "1262701205519000153",
+                "customer": {
+                    "inn": "2627012055",
+                    "kpp": "262701001",
+                    "OKPO": "08585000",
+                    "regNum": "03211000201",
+                    "fullName": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"САНАТОРИЙ \"ЖЕЛЕЗНОВОДСК\" МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+                    "legalForm": {
+                        "code": "75104",
+                        "singularName": "Федеральные государственные казенные учреждения"
+                    },
+                    "shortName": "ФКУЗ \"САНАТОРИЙ \"ЖЕЛЕЗНОВОДСК\" МВД РОССИИ\"",
+                    "customerCode": "12627012055262701001",
+                    "consRegistryNum": "00116832",
+                    "registrationDate": "2012-12-29"
+                },
+                "finances": {
+                    "budgetFunds": {
+                        "OKTMO": {
+                            "code": "07712000001",
+                            "name": "г Железноводск"
+                        },
+                        "budget": {
+                            "code": "99010001",
+                            "name": "Федеральный бюджет"
+                        },
+                        "stages": {
+                            "endDate": "2019-12-31",
+                            "payments": {
+                                "KBK2016": "18809050840490059223",
+                                "paymentSum": "654948.12",
+                                "paymentYear": "2019",
+                                "paymentSumRUR": "654948.12"
+                            }
+                        },
+                        "budgetLevel": "10"
+                    }
+                },
+                "products": {
+                    "product": [
+                        {
+                            "sid": "194202410",
+                            "sum": "591283.38",
+                            "OKEI": {
+                                "code": "166",
+                                "fullName": "Килограмм",
+                                "nationalCode": "кг"
+                            },
+                            "guid": "A21A876F92DA4D81B165B3F0F75298F0",
+                            "name": "Икра лососевая зернистая",
+                            "OKPD2": {
+                                "code": "10.20.26.112",
+                                "name": "Икра лососевых рыб"
+                            },
+                            "price": "2374.06000000000",
+                            "VATSum": "0.00",
+                            "sumRUR": "591283.38",
+                            "VATRate": "n",
+                            "priceRUR": "2374.06000000000",
+                            "quantity": "249.06",
+                            "withoutVATSum": "591283.38",
+                            "whitoutVATPrice": "2374.06000000000"
+                        },
+                        {
+                            "sid": "194202411",
+                            "sum": "63372.54",
+                            "OKEI": {
+                                "code": "166",
+                                "fullName": "Килограмм",
+                                "nationalCode": "кг"
+                            },
+                            "guid": "2C98EB1E5BD442B38A497949CC76CE7C",
+                            "name": "Икра трески стерилизованная",
+                            "OKPD2": {
+                                "code": "10.20.26.119",
+                                "name": "Икра прочих рыб"
+                            },
+                            "price": "261.87000000000",
+                            "VATSum": "0.00",
+                            "sumRUR": "63372.54",
+                            "VATRate": "n",
+                            "priceRUR": "261.87000000000",
+                            "quantity": "242",
+                            "withoutVATSum": "63372.54",
+                            "whitoutVATPrice": "261.87000000000"
+                        },
+                        {
+                            "sid": "194203245",
+                            "sum": "292.20",
+                            "OKEI": {
+                                "code": "166",
+                                "fullName": "Килограмм",
+                                "nationalCode": "кг"
+                            },
+                            "guid": "2C98EB1E5BD442B38A497949CC76CE7C",
+                            "name": "Икра трески стерилизованная",
+                            "OKPD2": {
+                                "code": "10.20.26.119",
+                                "name": "Икра прочих рыб"
+                            },
+                            "price": "292.20000000000",
+                            "VATSum": "0.00",
+                            "sumRUR": "292.20",
+                            "VATRate": "n",
+                            "priceRUR": "292.20000000000",
+                            "quantity": "1",
+                            "withoutVATSum": "292.20",
+                            "whitoutVATPrice": "292.20000000000"
+                        }
+                    ],
+                    "quantityUndefined": "false"
+                },
+                "signDate": "2019-10-22",
+                "priceInfo": {
+                    "price": "654948.12",
+                    "currency": {
+                        "code": "RUB",
+                        "name": "Российский рубль"
+                    },
+                    "priceRUR": "654948.12",
+                    "priceVAT": "0.00",
+                    "priceType": "P",
+                    "priceVATRUR": "0.00",
+                    "currencyRate": {
+                        "rate": "1",
+                        "raiting": "1"
+                    }
+                },
+                "printForm": {
+                    "url": "http://zakupki.gov.ru/epz/contract/printForm/viewXml.html?contractInfoId=52625616",
+                    "docRegNumber": "12627012055190001530001"
+                },
+                "suppliers": {
+                    "supplier": {
+                        "legalEntityRF": {
+                            "INN": "2636217250",
+                            "KPP": "263601001",
+                            "OKPO": "41328379",
+                            "OKTMO": {
+                                "code": "07701000001",
+                                "name": "г Ставрополь"
+                            },
+                            "address": "355035, КРАЙ СТАВРОПОЛЬСКИЙ 26, Г СТАВРОПОЛЬ, УЛ АЛЕКСАНДРОВСКАЯ, ДОМ 27, ОФИС 1",
+                            "firmName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФИШ-ПРОДУКТ\"",
+                            "fullName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФИШ-ПРОДУКТ\"",
+                            "legalForm": {
+                                "code": "12300",
+                                "singularName": "Общества с ограниченной ответственностью"
+                            },
+                            "shortName": "ООО \"ФИШ-ПРОДУКТ\"",
+                            "contactInfo": {
+                                "lastName": "Багдасарова",
+                                "firstName": "Майя",
+                                "middleName": "Кими"
+                            },
+                            "contactEMail": "fihprodukt@mail.ru",
+                            "contactPhone": "8-928342-1311",
+                            "postAdressInfo": {
+                                "mailingAdress": "355035, КРАЙ СТАВРОПОЛЬСКИЙ 26, Г СТАВРОПОЛЬ, УЛ АЛЕКСАНДРОВСКАЯ, ДОМ 27, ОФИС 1",
+                                "postBoxNumber": "355035, КРАЙ СТАВРОПОЛЬСКИЙ 26, Г СТАВРОПОЛЬ, УЛ АЛЕКСАНДРОВСКАЯ, ДОМ 27, ОФИС 1",
+                                "mailFacilityName": "355035, КРАЙ СТАВРОПОЛЬСКИЙ 26, Г СТАВРОПОЛЬ, УЛ АЛЕКСАНДРОВСКАЯ, ДОМ 27, ОФИС 1"
+                            },
+                            "registrationDate": "2019-08-30"
+                        }
+                    }
+                },
+                "foundation": {
+                    "fcsOrder": {
+                        "order": {
+                            "placing": "12011",
+                            "lotNumber": "1",
+                            "purchaseCode": "191262701205526270100100010620000223",
+                            "tenderPlanInfo": {
+                                "plan2017Number": "2019032110002010010001",
+                                "position2017Number": "2019032110002010010000550064"
+                            },
+                            "notificationNumber": "0321100020119000151",
+                            "contractProjectNumber": "03211000201190001510001"
+                        }
+                    }
+                },
+                "enforcement": {
+                    "cashAccount": {
+                        "amount": "271111.13",
+                        "currency": {
+                            "code": "RUB",
+                            "name": "Российский рубль"
+                        },
+                        "amountRUR": "271111.13",
+                        "currencyRate": {
+                            "rate": "1",
+                            "raiting": "1"
+                        }
+                    }
+                },
+                "okpd2okved2": "true",
+                "publishDate": "2019-10-24T16:52:09.834+03:00",
+                "documentBase": "Протокол подведения итогов электронного аукциона № 0321100020119000151-3 от 09.10.2019",
+                "documentCode": "120111",
+                "protocolDate": "2019-10-09",
+                "scanDocuments": {
+                    "attachment": [
+                        {
+                            "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rpec/file.html?uid=94D9DD46555D0126E0530A86121F8651",
+                            "fileName": "ГК № 148 Фиш-Продукт икра.doc",
+                            "docRegNumber": "12627012055190001530002",
+                            "docDescription": "Контракт № 148 от 22.10.2019 15:05:12"
+                        },
+                        {
+                            "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk2/file.html?uid=95A86766CE8600C0E0530A86120DB02D",
+                            "fileName": "ГК 148 Икра.pdf",
+                            "docRegNumber": "12627012055190001530003",
+                            "docDescription": "ГК 148 Икра"
+                        }
+                    ]
+                },
+                "contractSubject": "Поставка икры (лососевой зернистой и трески) в 2019 года для нужд ФКУЗ «Санаторий «Железноводск» МВД России»  (в объеме гособоронзаказа).",
+                "executionPeriod": {
+                    "stages": {
+                        "sid": "53900887",
+                        "guid": "D921CD410B07474DBD7DFB4728CF7CB6",
+                        "endDate": "2019-12-31",
+                        "stagePrice": "0.00",
+                        "stagePriceRUR": "0.00",
+                        "stageAdvancePaymentSum": {
+                            "priceValue": "0.00",
+                            "priceValueRUR": "0.00",
+                            "sumInPercents": "0.0"
+                        }
+                    },
+                    "endDate": "2019-12-31",
+                    "startDate": "2019-10-22"
+                },
+                "subContractorsSum": {
+                    "priceValueRUR": "0.00",
+                    "sumInPercents": "0.0"
+                },
+                "currentContractStage": "E",
+                "defenseContractNumber": "1919188101482002627012055",
+                "conclusionContractSt95Ch17.1": "false",
+                "bankSupportContractRequiredInfo": {
+                    "treasurySupportContractRequired": "true"
+                }
+            },
+            "type": "contract",
+            "state": "E"
+        }
+    ]
+}

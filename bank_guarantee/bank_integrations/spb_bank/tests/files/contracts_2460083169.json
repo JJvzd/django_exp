@@ -1,0 +1,582 @@
+[
+  {
+    "number": "3246004405718000005",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 162070.16,
+    "start_date": "2018-10-23T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372320000021",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ВОЙСК НАЦИОНАЛЬНОЙ ГВАРДИИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 312787.36,
+    "start_date": "2020-01-30T00:00:00",
+    "end_date": "2021-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1771408642220000056",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=664918&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ ОБРАЗОВАТЕЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ФИНАНСОВЫЙ УНИВЕРСИТЕТ ПРИ ПРАВИТЕЛЬСТВЕ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "price": 3701776,
+    "start_date": "2020-02-25T00:00:00",
+    "end_date": "2020-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004418420000002",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061659&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ШКОЛА № 12\"",
+    "price": 906841.19,
+    "start_date": "2020-02-12T00:00:00",
+    "end_date": "2020-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246303264520000032",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061382&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКИЙ МЕЖРАЙОННЫЙ РОДИЛЬНЫЙ ДОМ № 5\"",
+    "price": 560857.24,
+    "start_date": "2020-02-20T00:00:00",
+    "end_date": "2021-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004418419000001",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061659&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ШКОЛА № 12\"",
+    "price": 957873.96,
+    "start_date": "2019-01-10T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246021360420000061",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061243&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКАЯ МЕЖРАЙОННАЯ ДЕТСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА № 1\"",
+    "price": 243159,
+    "start_date": "2020-02-05T00:00:00",
+    "end_date": "2021-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246608111120000002",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=765459&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР РАЗВИТИЯ ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ\"",
+    "price": 372172.49,
+    "start_date": "2020-01-30T00:00:00",
+    "end_date": "2020-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004405720000001",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 980871.93,
+    "start_date": "2020-01-09T00:00:00",
+    "end_date": "2020-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014418000081",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=a69a21d2-a831-4826-bf6d-e1b85283ffb8",
+    "issuer_name": "МЕЖМУНИЦИПАЛЬНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ \"КРАСНОЯРСКОЕ\"",
+    "price": 222723.82,
+    "start_date": "2018-10-18T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014419000090",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "МЕЖМУНИЦИПАЛЬНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ \"КРАСНОЯРСКОЕ\"",
+    "price": 620843.61,
+    "start_date": "2019-10-18T00:00:00",
+    "end_date": "2021-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1770271824319000226",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=1454375&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "ФИЛИАЛ ФЕДЕРАЛЬНОГО КАЗЕННОГО УЧРЕЖДЕНИЯ \"ГЛАВНЫЙ ЦЕНТР СПЕЦИАЛЬНЫХ ПЕРЕВОЗОК МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ\" \"ЦЕНТР СПЕЦИАЛЬНЫХ ПЕРЕВОЗОК МВД РОССИИ НА СЕВЕРНОЙ ЖЕЛЕЗНОЙ ДОРОГЕ\"",
+    "price": 1953600,
+    "start_date": "2019-07-01T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372319000065",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ВОЙСК НАЦИОНАЛЬНОЙ ГВАРДИИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 150000,
+    "start_date": "2019-03-06T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246021360419000124",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061243&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКАЯ МЕЖРАЙОННАЯ ДЕТСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА № 1\"",
+    "price": 294045,
+    "start_date": "2019-02-14T00:00:00",
+    "end_date": "2020-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246303264519000019",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061382&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКИЙ МЕЖРАЙОННЫЙ РОДИЛЬНЫЙ ДОМ № 5\"",
+    "price": 538974,
+    "start_date": "2019-01-11T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004405719000002",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 944913.92,
+    "start_date": "2019-01-10T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3660800243618000112",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2181447&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "ЕКАТЕРИНБУРГСКОЕ МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЕКАТЕРИНБУРГСКИЙ МЕТРОПОЛИТЕН\"",
+    "price": 106255631.4,
+    "start_date": "2018-04-09T00:00:00",
+    "end_date": "2018-09-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3660800243618000243",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2181447&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "ЕКАТЕРИНБУРГСКОЕ МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЕКАТЕРИНБУРГСКИЙ МЕТРОПОЛИТЕН\"",
+    "price": 4098686.62,
+    "start_date": "2018-08-17T00:00:00",
+    "end_date": "2019-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1771408642219000017",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=664918&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ ОБРАЗОВАТЕЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ФИНАНСОВЫЙ УНИВЕРСИТЕТ ПРИ ПРАВИТЕЛЬСТВЕ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "price": 4095000,
+    "start_date": "2019-01-10T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004405719000001",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=147d8a2b-6d1f-4136-ae37-027a9e907c2b",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 190486.73,
+    "start_date": "2018-12-29T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372318000260",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ВОЙСК НАЦИОНАЛЬНОЙ ГВАРДИИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 47721.13,
+    "start_date": "2018-12-25T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372318000121",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ВОЙСК НАЦИОНАЛЬНОЙ ГВАРДИИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 161246.88,
+    "start_date": "2018-03-29T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246303264518000133",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061382&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКИЙ МЕЖРАЙОННЫЙ РОДИЛЬНЫЙ ДОМ № 5\"",
+    "price": 623659.81,
+    "start_date": "2018-05-01T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3541110006418000213",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2182490&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДА НОВОСИБИРСКА \"НОВОСИБИРСКИЙ МЕТРОПОЛИТЕН\"",
+    "price": 5811522.81,
+    "start_date": "2018-10-02T00:00:00",
+    "end_date": "2019-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3541110006418000174",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2182490&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ГОРОДА НОВОСИБИРСКА \"НОВОСИБИРСКИЙ МЕТРОПОЛИТЕН\"",
+    "price": 10387861.69,
+    "start_date": "2018-08-08T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1771408642218000097",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=664918&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ ОБРАЗОВАТЕЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ФИНАНСОВЫЙ УНИВЕРСИТЕТ ПРИ ПРАВИТЕЛЬСТВЕ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "price": 3897329,
+    "start_date": "2018-04-10T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014418000029",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "МЕЖМУНИЦИПАЛЬНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ \"КРАСНОЯРСКОЕ\"",
+    "price": 250000,
+    "start_date": "2018-03-21T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246021360418000087",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061243&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКАЯ МЕЖРАЙОННАЯ ДЕТСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА № 1\"",
+    "price": 261622.8,
+    "start_date": "2018-01-31T00:00:00",
+    "end_date": "2019-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246204866718000004",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2190575&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ ПРЕДПРИЯТИЕ ГОРОДА КРАСНОЯРСКА \"МУНИЦИПАЛЬНАЯ УПРАВЛЯЮЩАЯ КОМПАНИЯ \"ПРАВОБЕРЕЖНАЯ\"",
+    "price": 1097385.71,
+    "start_date": "2018-02-07T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004405718000001",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=64af2613-f13a-4618-8cfb-8af976567a81",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 636000.06,
+    "start_date": "2018-01-11T00:00:00",
+    "end_date": "2018-09-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3660800243618000001",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2181447&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "ЕКАТЕРИНБУРГСКОЕ МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЕКАТЕРИНБУРГСКИЙ МЕТРОПОЛИТЕН\"",
+    "price": 11388627.12,
+    "start_date": "2018-01-09T00:00:00",
+    "end_date": "2019-02-28T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1910215778317000318",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2188133&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"КРЫМСКАЯ ЖЕЛЕЗНАЯ ДОРОГА\"",
+    "price": 226122117.15,
+    "start_date": "2017-07-20T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004405717000004",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 273248.1,
+    "start_date": "2017-12-11T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372317000507",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ВОЙСК НАЦИОНАЛЬНОЙ ГВАРДИИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 57467.39,
+    "start_date": "2017-12-20T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372317000148",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ВОЙСК НАЦИОНАЛЬНОЙ ГВАРДИИ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 58547.47,
+    "start_date": "2017-04-19T00:00:00",
+    "end_date": "2017-05-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3660800243617000060",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2181447&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "ЕКАТЕРИНБУРГСКОЕ МУНИЦИПАЛЬНОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"ЕКАТЕРИНБУРГСКИЙ МЕТРОПОЛИТЕН\"",
+    "price": 9000131.4,
+    "start_date": "2017-07-17T00:00:00",
+    "end_date": "2018-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014417000035",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "МЕЖМУНИЦИПАЛЬНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ \"КРАСНОЯРСКОЕ\"",
+    "price": 260726.49,
+    "start_date": "2017-03-31T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1771408642216000712",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=664918&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ ОБРАЗОВАТЕЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ \"ФИНАНСОВЫЙ УНИВЕРСИТЕТ ПРИ ПРАВИТЕЛЬСТВЕ РОССИЙСКОЙ ФЕДЕРАЦИИ\"",
+    "price": 3787262.64,
+    "start_date": "2016-12-27T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246021360416000321",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061243&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКАЯ МЕЖРАЙОННАЯ ДЕТСКАЯ КЛИНИЧЕСКАЯ БОЛЬНИЦА № 1\"",
+    "price": 196245.19,
+    "start_date": "2016-12-26T00:00:00",
+    "end_date": "2018-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004405716000009",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061674&backUrl=14dfa2e7-9238-49dd-9bbf-c89d66461424",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ \"ЦЕНТР ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ № 4\"",
+    "price": 555000,
+    "start_date": "2016-12-26T00:00:00",
+    "end_date": "2019-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372316000001",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ГЛАВНОГО УПРАВЛЕНИЯ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 67547.82,
+    "start_date": "2016-01-14T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014416000161",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "Межмуниципальное управление Министерства внутренних дел Российской Федерации \"Красноярское\"",
+    "price": 165147.42,
+    "start_date": "2016-10-18T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1770425226116000045",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=727414&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "МИНИСТЕРСТВО ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "price": 30350512.59,
+    "start_date": "2016-01-18T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1770425226116000151",
+    "status": "E",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=727414&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "МИНИСТЕРСТВО ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "price": 43366877.68,
+    "start_date": "2016-03-02T00:00:00",
+    "end_date": "2016-09-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004418415000008",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061659&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ШКОЛА № 12\"",
+    "price": 5460511.84,
+    "start_date": "2015-12-24T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014416000050",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "Межмуниципальное управление Министерства внутренних дел Российской Федерации \"Красноярское\"",
+    "price": 138659.24,
+    "start_date": "2016-04-20T00:00:00",
+    "end_date": "2016-08-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372315000356",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"УПРАВЛЕНИЕ ВНЕВЕДОМСТВЕННОЙ ОХРАНЫ ГЛАВНОГО УПРАВЛЕНИЯ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО КРАСНОЯРСКОМУ КРАЮ\"",
+    "price": 42524.47,
+    "start_date": "2015-12-14T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "3246004418415000006",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061659&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ОБЩЕОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ \"СРЕДНЯЯ ШКОЛА № 12\"",
+    "price": 625202.06,
+    "start_date": "2015-11-16T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1850100702615000051",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=741225&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 39995\"",
+    "price": 1987041.86,
+    "start_date": "2015-10-12T00:00:00",
+    "end_date": "2015-11-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1850100702615000037",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=741225&backUrl=808228b8-369d-4aa4-8a8f-11dcb3ecf285",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 39995\"",
+    "price": 8283677,
+    "start_date": "2015-07-06T00:00:00",
+    "end_date": "2015-11-20T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246303264515000137",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061382&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКИЙ МЕЖРАЙОННЫЙ РОДИЛЬНЫЙ ДОМ № 5\"",
+    "price": 353391.64,
+    "start_date": "2014-01-17T00:00:00",
+    "end_date": "2014-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1271200926115000029",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=1976728&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ УЧРЕЖДЕНИЕ \"ВОЙСКОВАЯ ЧАСТЬ 52015\"",
+    "price": 1742300,
+    "start_date": "2015-06-02T00:00:00",
+    "end_date": "2015-11-25T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "2246303264515000130",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=2061382&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "КРАЕВОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ \"КРАСНОЯРСКИЙ МЕЖРАЙОННЫЙ РОДИЛЬНЫЙ ДОМ № 5\"",
+    "price": 940198.29,
+    "start_date": "2015-02-18T00:00:00",
+    "end_date": "2015-02-18T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246625372315000087",
+    "status": "EI",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "федеральное государственное казенное учреждение \"Управление вневедомственной охраны Главного управления Министерства внутренних дел Российской Федерации по Красноярскому краю\"",
+    "price": 139962.02,
+    "start_date": "2015-03-02T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "1246600014415000033",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=612833&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "МЕЖМУНИЦИПАЛЬНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РОССИЙСКОЙ ФЕДЕРАЦИИ \"КРАСНОЯРСКОЕ\"",
+    "price": 250707.39,
+    "start_date": "2015-03-30T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "0319100016214000295",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=642744&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "федеральное государственное казенное учреждение \"Управление вневедомственной охраны Главного управления Министерства внутренних дел Российской Федерации по Красноярскому краю\"",
+    "price": 58395.41,
+    "start_date": "2014-08-04T00:00:00",
+    "end_date": "2014-01-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "0319100027114000084",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=741512&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "федеральное государственное бюджетное учреждение \"Авиационно-спасательный центр Сибирского регионального центра МЧС России\"",
+    "price": 38704,
+    "start_date": "2014-06-30T00:00:00",
+    "end_date": "2015-01-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "0319100022614000030",
+    "status": "EC",
+    "issuer_url": "/epz/organization/view/info.html?organizationId=613844&backUrl=9ae7c3c5-14d6-430f-8b54-6777a9e577ea",
+    "issuer_name": "федеральное государственное бюджетное учреждение \"Производственно-технический центр федеральной  противопожарной службы по Красноярскому краю\"",
+    "price": 123900,
+    "start_date": "2014-05-30T00:00:00",
+    "end_date": "2014-01-01T00:00:00",
+    "okpd2": []
+  }
+]

@@ -1,0 +1,1162 @@
+[
+  {
+    "number": "57708503727170134610000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 3507555.9,
+    "start_date": "2017-07-04T00:00:00",
+    "end_date": "2018-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102170003070000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 718649.89,
+    "start_date": "2017-07-31T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "77717609102180001180000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 1930236.92,
+    "start_date": "2018-05-07T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170175800000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 4032535.42,
+    "start_date": "2017-09-08T00:00:00",
+    "end_date": "2018-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160109380000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 7028599.2,
+    "start_date": "2016-07-06T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160023410000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 8201000,
+    "start_date": "2016-02-17T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150190860000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 2378083.5,
+    "start_date": "2015-12-23T00:00:00",
+    "end_date": "2015-12-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "55505034152180000030000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5489&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОМСК-ПРИГОРОД\"",
+    "price": 7013058.6,
+    "start_date": "2018-01-09T00:00:00",
+    "end_date": "2018-02-28T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170073060000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1367149.18,
+    "start_date": "2017-04-13T00:00:00",
+    "end_date": "2018-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "51435073060180000060000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=7656&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКЦИОНЕРНАЯ КОМПАНИЯ \"ЖЕЛЕЗНЫЕ ДОРОГИ ЯКУТИИ\"",
+    "price": 6962000,
+    "start_date": "2018-02-14T00:00:00",
+    "end_date": "2018-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170186090000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 3836450.83,
+    "start_date": "2017-09-26T00:00:00",
+    "end_date": "2018-02-28T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150072780000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 2110229.4,
+    "start_date": "2015-05-29T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150057900000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 17935999.96,
+    "start_date": "2015-04-30T00:00:00",
+    "end_date": "2015-08-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160103080000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 3628345.21,
+    "start_date": "2016-06-28T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170180570000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 609715.44,
+    "start_date": "2017-09-18T00:00:00",
+    "end_date": "2018-03-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "55407193789170001950000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=17076&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЭКСПРЕСС-ПРИГОРОД\"",
+    "price": 30259632,
+    "start_date": "2017-12-20T00:00:00",
+    "end_date": "2018-02-28T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170189800000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 2360000,
+    "start_date": "2017-09-29T00:00:00",
+    "end_date": "2018-03-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102170003050000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 243364.38,
+    "start_date": "2017-07-31T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102170003560000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 1749845.6,
+    "start_date": "2017-09-11T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102170004200000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 311520,
+    "start_date": "2017-11-16T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150095960000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1201582.16,
+    "start_date": "2015-07-07T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150097200000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 3128247.31,
+    "start_date": "2015-07-09T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170004370000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1071965.1,
+    "start_date": "2016-12-30T00:00:00",
+    "end_date": "2018-02-15T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150136890000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 8307924.52,
+    "start_date": "2015-09-23T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150145070000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 9663523.48,
+    "start_date": "2015-10-09T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170198610000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 10355809.8,
+    "start_date": "2017-10-19T00:00:00",
+    "end_date": "2018-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170174900000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 3509168.61,
+    "start_date": "2017-09-06T00:00:00",
+    "end_date": "2018-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708709686170010580000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=15561&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ПАССАЖИРСКАЯ КОМПАНИЯ\"",
+    "price": 5298747.52,
+    "start_date": "2017-08-04T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102170000250000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 2714000,
+    "start_date": "2017-01-01T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460069630170000500000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3708&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСПРИГОРОД\"",
+    "price": 3409567.52,
+    "start_date": "2017-05-31T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160154640000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 546075.68,
+    "start_date": "2016-09-21T00:00:00",
+    "end_date": "2017-02-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460069630170000530000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3708&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСПРИГОРОД\"",
+    "price": 1931045.22,
+    "start_date": "2017-06-20T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "66501243453170001400000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=17593&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПАССАЖИРСКАЯ КОМПАНИЯ \"САХАЛИН\"",
+    "price": 33495289.02,
+    "start_date": "2017-07-03T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460237933170001480000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=14885&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСНОЯРСКАЯ ТЕПЛОТРАНСПОРТНАЯ КОМПАНИЯ\"",
+    "price": 49109.17,
+    "start_date": "2017-06-29T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150069760000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1743940.97,
+    "start_date": "2015-05-26T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170160790000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 920400,
+    "start_date": "2017-08-11T00:00:00",
+    "end_date": "2018-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "51902007292170000060000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=117295&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОТДЕЛЕНИЕ ВРЕМЕННОЙ ЭКСПЛУАТАЦИИ\"",
+    "price": 581434.38,
+    "start_date": "2017-03-01T00:00:00",
+    "end_date": "2017-03-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52221055435170000230000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5950&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЛТАЙ-ПРИГОРОД\"",
+    "price": 1049641.8,
+    "start_date": "2017-06-02T00:00:00",
+    "end_date": "2017-08-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102150000460000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 20550000,
+    "start_date": "2015-03-02T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52221055435170000120000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5950&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЛТАЙ-ПРИГОРОД\"",
+    "price": 2661069.92,
+    "start_date": "2017-04-14T00:00:00",
+    "end_date": "2017-07-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52221055435170000110000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5950&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЛТАЙ-ПРИГОРОД\"",
+    "price": 227613.74,
+    "start_date": "2017-04-14T00:00:00",
+    "end_date": "2017-07-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460069630170000520000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3708&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСПРИГОРОД\"",
+    "price": 929250,
+    "start_date": "2017-06-14T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102170000030000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 3186000,
+    "start_date": "2016-12-28T00:00:00",
+    "end_date": "2017-06-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160181920000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 2784800,
+    "start_date": "2016-10-31T00:00:00",
+    "end_date": "2017-03-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160115150000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1591540.16,
+    "start_date": "2016-07-15T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "67717609102150001420000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19996&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМСПЕЦТРАНС\"",
+    "price": 9863258.92,
+    "start_date": "2015-12-14T00:00:00",
+    "end_date": "2016-11-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "55505034152160000450000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5489&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОМСК-ПРИГОРОД\"",
+    "price": 25455218.47,
+    "start_date": "2016-11-08T00:00:00",
+    "end_date": "2016-12-15T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "62452201644160000700000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=18929&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УПРАВЛЕНИЕ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА\"",
+    "price": 401369.92,
+    "start_date": "2016-11-30T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460069630160000470000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3708&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСПРИГОРОД\"",
+    "price": 590000,
+    "start_date": "2016-05-31T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727170010180000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=5a270173-59d3-4fd1-b05d-685cc11eb849",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 797850.96,
+    "start_date": "2016-05-30T00:00:00",
+    "end_date": "2017-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "51902007292160000400000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=117295&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОТДЕЛЕНИЕ ВРЕМЕННОЙ ЭКСПЛУАТАЦИИ\"",
+    "price": 1162868.76,
+    "start_date": "2016-04-20T00:00:00",
+    "end_date": "2016-06-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52221055435160000100000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5950&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЛТАЙ-ПРИГОРОД\"",
+    "price": 4247271.54,
+    "start_date": "2016-04-08T00:00:00",
+    "end_date": "2016-06-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160122640000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 4614832.5,
+    "start_date": "2016-07-26T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "83812010086160001380000",
+    "status": "EI",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=74643&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "Красноярский институт железнодорожного транспорта - филиал федерального государственного бюджетного образовательного учреждения высшего  образования \"Иркутский государственный университет путей сообщения\"",
+    "price": 199377.35,
+    "start_date": "2016-06-21T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460069630160000330000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3708&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСПРИГОРОД\"",
+    "price": 6266806.54,
+    "start_date": "2016-03-31T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160135750000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 18886022.72,
+    "start_date": "2016-08-16T00:00:00",
+    "end_date": "2016-09-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "62452201644160000670000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=18929&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УПРАВЛЕНИЕ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА\"",
+    "price": 3002831.78,
+    "start_date": "2016-04-29T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160194850000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1725033.61,
+    "start_date": "2016-11-17T00:00:00",
+    "end_date": "2017-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460237901160000790000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=21685&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАЗАРОВСКАЯ ГРЭС\"",
+    "price": 707040.54,
+    "start_date": "2016-03-28T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460237891160001290000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=21656&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАНСКАЯ ТЭЦ\"",
+    "price": 615368.58,
+    "start_date": "2016-04-04T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160130840000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 3877534.37,
+    "start_date": "2016-08-08T00:00:00",
+    "end_date": "2017-01-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460237933160000680000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=14885&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСНОЯРСКАЯ ТЕПЛОТРАНСПОРТНАЯ КОМПАНИЯ\"",
+    "price": 1529265.49,
+    "start_date": "2016-04-15T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160112760000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1855380.08,
+    "start_date": "2016-07-12T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "65904006044150000040000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19811&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРОТОН-ПЕРМСКИЕ МОТОРЫ\"",
+    "price": 731038.32,
+    "start_date": "2015-01-16T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150129180000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 589864.91,
+    "start_date": "2015-09-08T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727160039630000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 589205.86,
+    "start_date": "2016-03-21T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52452000401160000010000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=1735&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "Федеральное государственное унитарное предприятие \"Горно-химический комбинат\"",
+    "price": 316386.32,
+    "start_date": "2016-01-11T00:00:00",
+    "end_date": "2016-03-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620160000080000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 171100,
+    "start_date": "2016-01-14T00:00:00",
+    "end_date": "2016-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52460069630150000540000",
+    "status": "EC",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3708&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСПРИГОРОД\"",
+    "price": 1160095.76,
+    "start_date": "2015-10-27T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "83812010086150000340000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=74643&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "Красноярский институт железнодорожного транспорта - филиал федерального государственного бюджетного образовательного учреждения высшего профессионального образования \"Иркутский государственный университет путей сообщения\"",
+    "price": 187037.7,
+    "start_date": "2015-03-10T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "55505034152150000120000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5489&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОМСК-ПРИГОРОД\"",
+    "price": 9782906.4,
+    "start_date": "2015-06-08T00:00:00",
+    "end_date": "2015-09-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57724261610150052080000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=16589&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "Главный Центр Магистральных Перевозок Почты - филиал Федерального Государственного Унитарного Предприятия \"Почта России\"",
+    "price": 5674584.39,
+    "start_date": "2015-12-30T00:00:00",
+    "end_date": "2016-05-01T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "55502020634150000840000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=3672&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТРАНСНЕФТЬ-ЗАПАДНАЯ СИБИРЬ\"",
+    "price": 99912.96,
+    "start_date": "2015-03-04T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150005010000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-11-24T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004920000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-11-13T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004810000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-11-09T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004800000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 318600,
+    "start_date": "2015-11-09T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "62452201644150000390000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=18929&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УПРАВЛЕНИЕ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА\"",
+    "price": 673893.28,
+    "start_date": "2015-10-28T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004580000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-10-28T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004560000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 295000,
+    "start_date": "2015-10-27T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004400000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 171100,
+    "start_date": "2015-10-20T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004390000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-10-20T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004380000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 318600,
+    "start_date": "2015-10-20T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004370000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-10-19T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004360000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-10-19T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004350000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 265500,
+    "start_date": "2015-10-19T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150097820000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 10483089.32,
+    "start_date": "2015-07-10T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004020000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299940,
+    "start_date": "2015-09-30T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004010000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299820,
+    "start_date": "2015-09-30T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150004000000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299940,
+    "start_date": "2015-09-30T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150090470000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 1708577.46,
+    "start_date": "2015-06-29T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003950000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 399956,
+    "start_date": "2015-09-28T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003870000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299820,
+    "start_date": "2015-09-21T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003860000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299940,
+    "start_date": "2015-09-21T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003850000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 295000,
+    "start_date": "2015-09-21T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003650000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 295000,
+    "start_date": "2015-09-03T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003640000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 297500,
+    "start_date": "2015-09-03T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003340000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299820,
+    "start_date": "2015-08-10T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003050000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299956,
+    "start_date": "2015-07-28T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003040000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=6820dfd6-ed83-4bde-8428-de4c579c6599",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 295000,
+    "start_date": "2015-07-28T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150003030000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 398950,
+    "start_date": "2015-07-23T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002920000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299956,
+    "start_date": "2015-07-17T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002910000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299820,
+    "start_date": "2015-07-17T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002900000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299820,
+    "start_date": "2015-07-17T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002800000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 398950,
+    "start_date": "2015-07-13T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150097810000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 2270697.6,
+    "start_date": "2015-07-10T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002730000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 398950,
+    "start_date": "2015-07-06T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002270000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299956,
+    "start_date": "2015-06-03T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150002200000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 406038,
+    "start_date": "2015-06-01T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "57708503727150074210000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=210&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\"",
+    "price": 833542.56,
+    "start_date": "2015-06-01T00:00:00",
+    "end_date": "2015-09-30T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52452000401150003130000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=1735&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "Федеральное государственное унитарное предприятие \"Горно-химический комбинат\"",
+    "price": 83563.94,
+    "start_date": "2015-05-22T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150001050000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299956,
+    "start_date": "2015-03-25T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150001040000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 299956,
+    "start_date": "2015-03-25T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "87717096620150000980000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=56976&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ФЕДЕРАЛЬНОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ \"РЕГИСТР СЕРТИФИКАЦИИ НА ФЕДЕРАЛЬНОМ ЖЕЛЕЗНОДОРОЖНОМ ТРАНСПОРТЕ\"",
+    "price": 164492,
+    "start_date": "2015-03-23T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "52221055435150000050000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=5950&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "Открытое акционерное общество \"Алтай-Пригород\"",
+    "price": 7692633.34,
+    "start_date": "2015-03-06T00:00:00",
+    "end_date": "2015-03-20T00:00:00",
+    "okpd2": []
+  },
+  {
+    "number": "65904006044150000030000",
+    "status": "E",
+    "issuer_url": "https://zakupki.gov.ru/223/ppa/public/organization/organization.html?epz=true&style44=false&agencyId=19811&backUrl=2daf09f1-24e0-4eca-9ee4-1162cd46db52",
+    "issuer_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПРОТОН-ПЕРМСКИЕ МОТОРЫ\"",
+    "price": 1709524,
+    "start_date": "2015-01-16T00:00:00",
+    "end_date": "2015-12-31T00:00:00",
+    "okpd2": []
+  }
+]

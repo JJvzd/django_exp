@@ -1,0 +1,1 @@
+default_app_config = 'bank_guarantee.apps.BankGuaranteeConfig'

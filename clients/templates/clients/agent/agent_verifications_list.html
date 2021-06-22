@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>#</th>
+        <th>ИНН</th>
+        <th>Название</th>
+        <th>Создано</th>
+        <th>Обновлено</th>
+        <th>Статус</th>
+    </tr>
+    {% for verification in object_list %}
+        <tr>
+        <td>{{ verification.id }}</td>
+        <td>{{ verification.agent.inn }}</td>
+        <td>{{ verification.agent.short_name }}</td>
+        <td>{{ verification.created }}</td>
+        <td>{{ verification.updated }}</td>
+        <td>{{ verification.get_status_display }}</td>
+        </tr>
+    {% endfor %}
+</table>
+</body>
+</html>
